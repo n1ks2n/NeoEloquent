@@ -32,7 +32,7 @@ class MigrateMakeCommand extends BaseCommand
     protected $packagePath;
 
     /**
-     * @var \Illuminate\Foundation\Composer
+     * @var \Illuminate\Support\Composer
      */
     protected $composer;
 
